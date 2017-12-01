@@ -1,48 +1,6 @@
 body {
 	background-color: #111;
 }
-.backarrow:hover {
-	background: url("http://imageshack.com/a/img924/6953/4TDN0D.png");
-}
-.backarrow2:hover {
-	background: url("http://imageshack.com/a/img924/6082/pOVwcs.png");
-}
-.arrow9:hover {
-	background: url("http://imageshack.com/a/img922/5129/NytP72.png");
-}
-.arrow10:hover {
-	background: url("http://imageshack.com/a/img922/2504/popi9m.png");
-}
-.arrow12:hover {
-	background: url("http://imageshack.com/a/img923/8236/q5FzD3.png");
-}
-.followarrow:hover {
-	background: url("http://imageshack.com/a/img923/2720/xgOS0a.png");
-}
-.backmaze4:hover {
-	background: url("http://imageshack.com/a/img921/1811/l4ZNPG.png");
-}
-.continuecave:hover {
-	background: url("http://imageshack.com/a/img924/2600/q94Pmz.png");
-}
-.goback:hover {
-	background: url("http://imageshack.com/a/img923/7399/PmaAot.png");
-}
-.follow2:hover {
-	background: url("http://imageshack.com/a/img922/3722/zmUWtR.png");
-}
-.backcave:hover {
-	background: url("http://imageshack.com/a/img921/6831/WNI2K6.png");
-}
-.gardenarrow:hover {
-	background: url("http://imageshack.com/a/img924/7259/BZaTlq.png");
-}
-.confront:hover {
-	background: url("http://imageshack.com/a/img923/7251/qdp4ep.png");
-}
-.backhouse:hover {
-	background: url("http://imageshack.com/a/img921/1477/BtXeSt.png");
-}
 .menu:hover {
 	background: url("http://imageshack.com/a/img923/6744/4mvITZ.png");
 }
@@ -51,75 +9,6 @@ body {
 }
 .two:hover {
 	background: url("http://imageshack.com/a/img923/1523/Q36R9E.png");
-}
-.three:hover {
-	background: url("http://imageshack.com/a/img921/2171/wW3f2U.png");
-}
-.four:hover {
-	background: url("http://imageshack.com/a/img921/2197/CqLYZm.png");
-}
-.five:hover {
-	background: url("http://imageshack.com/a/img924/5852/VwGffi.png");
-}
-.six:hover {
-	background: url("http://imageshack.com/a/img923/2797/QeYCNb.png");
-}
-.seven:hover {
-	background: url("http://imageshack.com/a/img921/8896/mrSMhc.png");
-}
-.eightplus:hover {
-	background: url("http://imageshack.com/a/img921/3633/8caKWq.png"); -webkit-transition: background 1000ms linear; -ms-transition: background 1000ms linear; transition: background 1000ms linear;
-}
-.nine:hover {
-	background: url("http://imageshack.com/a/img924/3064/9QQUkW.png");
-}
-.ten:hover {
-	background: url("http://imageshack.com/a/img922/7035/d3Q6gF.png");
-}
-.eleven:hover {
-	background: url("http://imageshack.com/a/img923/5563/SVAhXT.png");
-}
-.twelve:hover {
-	background: url("http://imageshack.com/a/img921/7331/PH5JXE.png");
-}
-.thirteen:hover {
-	background: url("http://imageshack.com/a/img922/812/8RVXob.png");
-}
-.fourteen:hover {
-	background: url("http://imageshack.com/a/img924/2725/XMFFHm.png");
-}
-.fifteen:hover {
-	background: url("http://imageshack.com/a/img922/2489/rcU5wM.png");
-}
-.sixteen:hover {
-	background: url("http://imageshack.com/a/img921/700/2bhAwV.png");
-}
-.seventeen:hover {
-	background: url("http://imageshack.com/a/img922/2327/49RLZW.png");
-}
-.eighteen:hover {
-	background: url("http://imageshack.com/a/img921/729/kVcD43.png");
-}
-.nineteen:hover {
-	background: url("http://imageshack.com/a/img922/1914/EmGdF2.png");
-}
-.twenty:hover {
-	background: url("http://imageshack.com/a/img923/3820/UNgeEe.png");
-}
-.twentyone:hover {
-	background: url("http://imageshack.com/a/img921/5305/hhD1ID.png");
-}
-.twentytwo:hover {
-	background: url("http://imageshack.com/a/img923/6996/m9UIME.png");
-}
-.twentythree:hover {
-	background: url("http://imageshack.com/a/img924/227/uezdc5.png");
-}
-.twentyfour:hover {
-	background: url("http://imageshack.com/a/img923/6590/jEZ4Jc.png");
-}
-.twentyfive:hover {
-	background: url("http://imageshack.com/a/img922/1439/Is0iCR.png");
 }
 .cont:hover {
 	background: url("http://imageshack.com/a/img921/9499/2P4twb.png");
