@@ -19,6 +19,24 @@ body {
 .five:hover {
 	background: url("http://imageshack.com/a/img924/5852/VwGffi.png");
 }
+.six:hover {
+	background: url("http://imageshack.com/a/img923/2797/QeYCNb.png");
+}
+.seven:hover {
+	background: url("http://imageshack.com/a/img921/8896/mrSMhc.png");
+}
+.eightplus:hover {
+	background: url("http://imageshack.com/a/img921/3633/8caKWq.png"); -webkit-transition: background 1000ms linear; -ms-transition: background 1000ms linear; transition: background 1000ms linear;
+}
+.nine:hover {
+	background: url("http://imageshack.com/a/img924/3064/9QQUkW.png");
+}
+backarrow:hover {
+	background: url("http://imageshack.com/a/img924/6953/4TDN0D.png");
+}
+.arrow9:hover {
+	background: url("http://imageshack.com/a/img922/5129/NytP72.png");
+}
 .cont:hover {
 	background: url("http://imageshack.com/a/img921/9499/2P4twb.png");
 }
