@@ -43,6 +43,9 @@ body {
 .thirteen:hover {
 	background: url("http://imageshack.com/a/img922/812/8RVXob.png");
 }
+.fourteen:hover {
+	background: url("http://imageshack.com/a/img924/2725/XMFFHm.png");
+}
 .backarrow:hover {
 	background: url("http://imageshack.com/a/img924/6953/4TDN0D.png");
 }
@@ -54,6 +57,18 @@ body {
 }
 .backarrow2:hover {
 	background: url("http://imageshack.com/a/img924/6082/pOVwcs.png");
+}
+.followarrow:hover {
+	background: url("http://imageshack.com/a/img923/2720/xgOS0a.png");
+}
+.backmaze4:hover {
+	background: url("http://imageshack.com/a/img921/1811/l4ZNPG.png");
+}
+.continuecave:hover {
+	background: url("http://imageshack.com/a/img924/2600/q94Pmz.png");
+}
+.goback:hover {
+	background: url("http://imageshack.com/a/img923/7399/PmaAot.png");
 }
 .cont:hover {
 	background: url("http://imageshack.com/a/img921/9499/2P4twb.png");
