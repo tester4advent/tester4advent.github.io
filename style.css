@@ -1,12 +1,12 @@
-.storytext {font-family: timesnewroman; font-size: 30 px; color: #FFF;}
-.clicks {width: 1050 px; height: 50 px; background-color: #FFF; display: block; margin-top: 50 px; margin-bottom: 50 px;}
-.clicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #FFF;}
-.startclicks {width: 950 px; height: 50 px; background-color: #660000;}
-.daysclick {width: 750 px; height: 50 px; background-color: #660000;}
-.daysclick:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000;}
-.startclicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000;}
-.elevatorbutton:hover {background: url('https://imageshack.com/a/img922/9172/kRy3Js.png');}
-.mainbutton {background: url('https://imageshack.com/a/img922/4076/5V4kpb.png');}
-.mainbutton:hover {background: url('https://imageshack.com/a/img924/8363/bGipro.gif');}
-.daybutton {background: url('https://imageshack.com/a/img922/175/jYHWF0.png');}
-.daybutton:hover {background: url('https://imageshack.com/a/img923/4994/y1mDOs.png');}
+.storytext {font-family: "Times New Roman"; font-size: 30 px; color: #FFF;}
+.clicks {width: 1050 px; height: 50 px; background-color: #FFF; display: block; margin-top: 50 px; margin-bottom: 50 px; display: inline-block;}
+.clicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #FFF; display: inline-block;}
+.startclicks {width: 950 px; height: 50 px; background-color: #660000; display: inline-block;}
+.daysclick {width: 750 px; height: 50 px; background-color: #660000; display: inline-block;}
+.daysclick:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000; display: inline-block;}
+.startclicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000; display: inline-block;}
+.elevatorbutton:hover {background: url('https://imageshack.com/a/img922/9172/kRy3Js.png'); display: inline-block;}
+.mainbutton {background: url('https://imageshack.com/a/img922/4076/5V4kpb.png'); display: inline-block;}
+.mainbutton:hover {background: url('https://imageshack.com/a/img924/8363/bGipro.gif'); display: inline-block;}
+.daybutton {background: url('https://imageshack.com/a/img922/175/jYHWF0.png'); display: inline-block;}
+.daybutton:hover {background: url('https://imageshack.com/a/img923/4994/y1mDOs.png'); display: inline-block;}
