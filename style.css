@@ -1,4 +1,4 @@
-.storytext {font-family: "Times New Roman"; font-size: 30px; color: #FFF; display: inline-block;}
+.storytext {font-family: "Times New Roman"; font-size: 30pt; color: #FFF; display: inline-block;}
 .clicks {width: 1050px; height: 50px; background-color: #FFF; display: block; margin-top: 50px; margin-bottom: 50px; display: inline-block;}
 .clicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #FFF; display: inline-block;}
 .startclicks {width: 950px; height: 50px; background-color: #660000; display: inline-block;}
