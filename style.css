@@ -1,8 +1,8 @@
-.storytext {font-family: timesnewroman; font-size: 30px; color: #FFF;}
-.clicks {width: 1050px; height: 50px; background-color: #FFF; display: block; margin-top: 50px; margin-bottom: 50px;}
+.storytext {font-family: timesnewroman; font-size: 30 px; color: #FFF;}
+.clicks {width: 1050 px; height: 50 px; background-color: #FFF; display: block; margin-top: 50 px; margin-bottom: 50 px;}
 .clicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #FFF;}
-.startclicks {width: 950px; height: 50px; background-color: #660000;}
-.daysclick {width: 750px; height: 50px; background-color: #660000;}
+.startclicks {width: 950 px; height: 50 px; background-color: #660000;}
+.daysclick {width: 750 px; height: 50 px; background-color: #660000;}
 .daysclick:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000;}
 .startclicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000;}
 .elevatorbutton:hover {background: url('https://imageshack.com/a/img922/9172/kRy3Js.png');}
