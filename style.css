@@ -10,4 +10,4 @@
 .mainbutton:hover {background: url('https://imageshack.com/a/img924/8363/bGipro.gif'); display: inline-block;}
 .daybutton {background: url('https://imageshack.com/a/img922/175/jYHWF0.png'); display: inline-block;}
 .daybutton:hover {background: url('https://imageshack.com/a/img923/4994/y1mDOs.png'); display: inline-block;}
-body {background: #000; overflow-x: hidden; overflow-y: auto;}
+body {background-color: #000; overflow-x: hidden; overflow-y: auto; font-family: "Times New Roman"; font-size: 30px; color: #FFF;}
