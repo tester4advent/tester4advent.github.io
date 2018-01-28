@@ -1,8 +1,8 @@
-.storytext {font-family: "Times New Roman"; font-size: 30 px; color: #FFF;}
-.clicks {width: 1050 px; height: 50 px; background-color: #FFF; display: block; margin-top: 50 px; margin-bottom: 50 px; display: inline-block;}
+.storytext {font-family: "Times New Roman"; font-size: 30px; color: #FFF; display: inline-block;}
+.clicks {width: 1050px; height: 50px; background-color: #FFF; display: block; margin-top: 50px; margin-bottom: 50px; display: inline-block;}
 .clicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #FFF; display: inline-block;}
-.startclicks {width: 950 px; height: 50 px; background-color: #660000; display: inline-block;}
-.daysclick {width: 750 px; height: 50 px; background-color: #660000; display: inline-block;}
+.startclicks {width: 950px; height: 50px; background-color: #660000; display: inline-block;}
+.daysclick {width: 750px; height: 50px; background-color: #660000; display: inline-block;}
 .daysclick:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000; display: inline-block;}
 .startclicks:hover {background: url('https://imageshack.com/a/img922/7086/BjiV5f.gif') #660000; display: inline-block;}
 .elevatorbutton:hover {background: url('https://imageshack.com/a/img922/9172/kRy3Js.png'); display: inline-block;}
