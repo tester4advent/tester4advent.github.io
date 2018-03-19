@@ -23,6 +23,14 @@ $rows: 9;
 $cols: 9; // don't forget to make the Haml match
 $mines: 10;
 
+body {
+	min-height: 100vh;
+	// strange margin behaviour thing cancelling
+	padding: 1px; box-sizing: border-box;
+	background: teal url(https://www.hdwallpapers.in/walls/windows_xp_bliss-wide.jpg) center / cover no-repeat;
+	counter-reset: mines $mines;
+}
+
 $size: 24px;
 $colors: #0000ff, #008100, #ff1300, #000083, #810500, #2a9494, #000000, #808080;
 
