@@ -40,10 +40,6 @@ $pos: ();
 }
 
 body {
-	min-height: 100vh;
-	// strange margin behaviour thing cancelling
-	padding: 1px; box-sizing: border-box;
-	background: teal url(https://www.hdwallpapers.in/walls/windows_xp_bliss-wide.jpg) center / cover no-repeat;
 	counter-reset: mines $mines;
 }
 
